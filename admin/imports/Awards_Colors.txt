@@ -1,0 +1,442 @@
+Color_Id,Color_Name,Color_Code,Is_Active
+1,Black Marble,,Y
+2,Green Marble,,Y
+7,Gold,G,Y
+8,Silver,Sil,Y
+9,Red,Rd,Y
+10,Black,Bk,Y
+11,Walnut,Wal,Y
+12,Purple,Plp,Y
+13,Hot Pink,HP,Y
+14,Orange,Ong,Y
+15,Gray,Gry,Y
+16,Dark Blue,Dkbl,Y
+17,Green,Gn,Y
+18,Maroon,Ma,Y
+19,Light Pink,LP,Y
+20,Dark Pink,DP,Y
+21,Black to Gold,BG,Y
+22,White Black-letters,WB,Y
+23,Black White-letters,BW,Y
+24,Red-white letters,RW,Y
+25,Brown-white letters,BW,Y
+26,Green White-letters,GW,Y
+27,Maroon White-letters,MW,Y
+28,Yellow-black letters,YB,Y
+29,Blue White-Letters,BLW,Y
+30,Gray White-letters,GRW,Y
+31,Beige-black letters,BEB,Y
+32,Orange-white letters,OW,Y
+33,Dark-Blue-white letters,DBW,Y
+34,Purple-White-letters,PW,Y
+35,Walnut White-letters,WAL,Y
+36,White-red letters,WR,Y
+37,White Blue-letters,WBL,Y
+38,White-Green letters,WGN,Y
+39,**Gold Metallic-Black Letters,GMB,Y
+40,**Silver-Metallic-Black Letters,SMB,Y
+41,Copper Metallic-Black Letters,CMB,Y
+42,Bronze Metallic-Black Letters,BMB,Y
+43,Silver-Gold,SG,Y
+44,Gold-Gold,GG,Y
+45,Red-Gold,RG,Y
+46,Blue-Gold,BG,Y
+47,Green-Gold,GRG,Y
+48,Oak  ($15 extra cost),OAK,Y
+49,Blue Marble,BLMB,Y
+50,Red Marble,RMB,Y
+51,Hot-Pink-White Letters,HPW,Y
+52,Flag,Flag,Y
+53,Red White Blue,RWB,Y
+54,White,W,Y
+55,Rainbow,RBOW,Y
+56,Red White,RW,Y
+57,Blue White,BW,Y
+58,Maroon White,MaW,Y
+59,Green White,GrnW,Y
+60,Purple White,PrW,Y
+61,Black Gold,BkG,Y
+62,Purple Gold,PrG,Y
+63,Black Red,BkR,Y
+64,Black Orange,BkO,Y
+65,Maroon Gold,MaG,Y
+66,Blue Red,BlR,Y
+67,Blue,BL,Y
+68,Stars,STR,Y
+69,Navy Blue,NAB,Y
+70,Yellow,YLL,Y
+71,Pink,PNK,Y
+72,Green Gold,GrG,Y
+73,Orange-Gold,OG,Y
+74,Dark Pink - Gold,DPG,Y
+75,Light Pink - gold,LPG,Y
+76,Hunter Green,HUG,Y
+77,Light Blue,LTBL,Y
+78,Army,ARM,Y
+79,Air Force,AF,Y
+80,Navy,NVY,Y
+81,Marines,MAR,Y
+82,Coast Guard,CG,Y
+83,Homeland Security,HOS,Y
+84,Army Reserve,ARR,Y
+85,National Guard,ANG,Y
+86,Insert Your Own,IYO,Y
+87,Medal Custom,MEC,Y
+88,Clear,CL,Y
+89,Brushed Silver,BrSil,Y
+90,Cherry,Ch,Y
+91,Light Maple,LiMa,Y
+92,Autumn Oak,AuOak,Y
+93,Carmel Oak,COak,Y
+94,Cherry Oak,ChOak,Y
+95,Chrome,,Y
+96,Dark Bronze,DBrnz,Y
+97,Brushed Chrome,BrChr,Y
+98,Gold Anodized,GAn,Y
+99,Beige Stone,BSt,Y
+100,Silver Swirl,SiSw,Y
+101,Brushed Chrome Beige Stone,ChrSt,Y
+102,Brushed Chrome Silver Swirl,ChrSS,Y
+103,Brushed Chrome Black Marble,ChrMrb,Y
+104,Dark Bronze Beige Stone,BrzStn,Y
+105,Dark Bronze Silver Swirl,BrnzSS,Y
+106,Dark Bronze Black Marble,BrnzMrb,Y
+107,Gold Anodized Beige Stone,GAnStn,Y
+108,Gold Anodized Silver Swirl,GAnSS,Y
+109,Gold Anodized Black Marble,GAnMrb,Y
+110,US Flag,USF,Y
+111,Hand rubbed walnut finish,HWal,Y
+112,Gloss piano finish walnut,PWal,Y
+114,Marbelized blue,Mrblu,Y
+115,Marbelized green,mrlgrn,Y
+116,Marbelized maroon,Mrbmrn,Y
+117,Marbelized purple,mrbppl,Y
+119,2nd Red,Sec,Y
+120,3rd White,Thd,Y
+121,4th Yellow,Frth,Y
+122,5th Green,Fth,Y
+123,6th Purple,Sxth,Y
+124,Participant Green,Part,Y
+125,1st Blue,Fir,Y
+126,05 Year,5,Y
+127,10 year,10,Y
+128,15 Year,15,Y
+129,20 year,20,Y
+130,25 year,25,Y
+131,30 Year,30,Y
+132,35 Year,35,Y
+133,40 Year,40,Y
+134,Leadership,lead,Y
+135,Salesperson,Sales,Y
+136,Performance,Per,Y
+137,Commitment,Com,Y
+138,Volunteer,vol,Y
+139,Presentation,Pre,Y
+140,Employee,Emp,Y
+141,Contribution,Con,Y
+142,Sponsor,,Y
+143,Team Player,,Y
+144,Associate,,Y
+145,Achievement,,Y
+146,Male,Male,Y
+147,Female,Fem,Y
+148,Old Gold,OG,Y
+149,Neon Orange,NO,Y
+150,Neon Pink,NP,Y
+151,Neon Green,NG,Y
+152,Lilac,Lilac,Y
+153,Lavender,Lav,Y
+154,Fuchsia,Fuchsia,Y
+155,Peach,Peach,Y
+156,Turquoise,Tur,Y
+157,Light Green,Light Green,Y
+158,Tomato,Tom,Y
+159,Brown,Brown,Y
+160,Swim,Swim,Y
+161,Swimming,Swim,Y
+162,Fire Department,FDR,Y
+163,Gloss Mahogany,,Y
+164,Green woodgrain,,Y
+165,Red Woodgrain,,Y
+166,Blue Woodgrain,,Y
+167,Blue washed oak,,Y
+168,Neon Tomato,,Y
+169,Cream,,Y
+170,Bronze,,Y
+171,natural,,Y
+172,Citrus green,,Y
+173,Dark green,,Y
+174,Citrus Orange,,Y
+175,Citrus Pink,,Y
+176,Copper,,Y
+177,1st Gold,1GLD,Y
+178,2nd Silver,2SIL,Y
+179,3rd Bronze,3BRZ,Y
+180,Black oak,,Y
+181,Cherry Finish,,Y
+182,Oyster,,Y
+183,Burgundy,,Y
+184,Royal Blue,,Y
+185,Marblized black,,Y
+186,Rosewood,,Y
+187,Black piano,,Y
+188,Blue reflective,,Y
+189,Gold reflective,,Y
+190,Silver Reflective,,Y
+191,reflective Green,,Y
+192,Green reflective,,Y
+193,Purple reflective,,Y
+194,Red reflective,,Y
+195,A_Queen,PMY01,Y
+196,B_1st Runner Up,PMY2,Y
+197,C_2nd Runner Up,PMY3,Y
+198,D_3rd Runner Up,PMY4,Y
+199,E_Congeniality,PMY5,Y
+200,F_Stage Interview,PMY6,Y
+201,G_Interview,PMY7,Y
+202,H_Top Sales,PMY8,Y
+203,I_Swimsuit,PMY9,Y
+204,J_Evening Gown,PMY10,Y
+205,K_Peoples Choice,PMY11,Y
+206,L_Top 5,PMY12,Y
+207,M_Top 10,PMY13,Y
+208,N_Crown,PMY14,Y
+209,O_Crown & Roses,PMY15,Y
+210,P_Custom,PMY16,Y
+211,A_Silver,BOD_MY_A,Y
+212,B_Gold,BOD_MY_B,Y
+213,C_YORK,BOD_MY_C,Y
+214,D_Female,BOD_MY_D,Y
+215,E_Male,BOD_MY_E,Y
+216,F_CUSTOM,BOD_MY_F,Y
+217,Beef,,Y
+218,Chicken,,Y
+219,Pork,,Y
+220,Showmanship,,Y
+221,Wild Thing,,Y
+222,Chili,,Y
+223,Flame,FLM,Y
+224,Black stone,,Y
+225,Frosted,FRST,Y
+226,Piano Rosewood,,Y
+227,Piano Walnut,,Y
+228,Standard 1,,Y
+229,Standard 2,,Y
+230,Custom,,Y
+231,FFA,,Y
+232,4-H,,Y
+233,Autumn Harvest,,Y
+234,Sienna,,Y
+235,Jade,,Y
+236,First Place,,Y
+237,Second Place,,Y
+238,Third Place,,Y
+239,1st Place,,Y
+240,2nd Place,,Y
+241,3rd Place,,Y
+242,Footprint,,Y
+243,Guidance,,Y
+244,Difference,,Y
+245,Love,,Y
+246,Crisis,,Y
+247,In My Name,,Y
+248,Worried,,Y
+249,Start of Day,,Y
+250,Red background,,Y
+251,Blue & Maroon,,Y
+252,Warm Jade,,Y
+253,Cool Blue,,Y
+254,Smoked gray,#BDBDBD,Y
+255,Translucent blue,#0101DF,Y
+256,Translucent green,,Y
+257,Police,,Y
+258,Civilian,,Y
+259,reindeer,deer,Y
+260,USA,,Y
+261,Attendance,,Y
+262,Citizenship,,Y
+263,Conduct,,Y
+264,English,,Y
+265,Excellence,,Y
+266,Geography,,Y
+267,History,,Y
+268,Journalism,,Y
+269,Language,,Y
+270,Library,,Y
+271,Mathematics,,Y
+272,Perfect Attendance,,Y
+273,Physical Education,,Y
+274,Reading,,Y
+275,Scholarship,,Y
+276,Science,,Y
+277,Service,,Y
+278,Social Studies,,Y
+279,Spelling,,Y
+280,Student Council,,Y
+281,Honor Student,,Y
+282,Bible,,Y
+283,Torah,,Y
+284,Prayer Hands,,Y
+285,Gold Notes,,Y
+286,Piano,,Y
+287,Colorful Notes,,Y
+288,Bright Gold,,Y
+289,Bright Silver,,Y
+290,Satin Gold,,Y
+291,Satin Silver,,Y
+292,Chrome Silver,,Y
+293,Brushed Satin Silver,,Y
+294,Bright Shiny Gold,,Y
+295,Above & Beyond,,Y
+296,Celebrating Teamwork,,Y
+297,Employee of the Month,,Y
+298,Employee of the Year,,Y
+299,Outstanding Volunteer,,Y
+300,Exceeding Expectations,,Y
+301,Outstanding Sales,,Y
+302,Top Producer,,Y
+303,Sales Leader,,Y
+304,Your Own Insert,,Y
+305,Unique Custom Image,,Y
+306,Paramedic,,Y
+307,Fire Volunteer,,Y
+308,Option "A",,Y
+309,Option "B",,Y
+310,Option "C",,Y
+311,Option "D",,Y
+312,Option "E",,Y
+313,Option "F",,Y
+314,Option "G",,Y
+315,Option "H",,Y
+316,Option "I",,Y
+317,Option "J",,Y
+318,Option "K",,Y
+319,Option "L",,Y
+320,Basic Belt,,Y
+321,Bingo Cards,,Y
+322,Bingo Numbers,,Y
+335,A - January,,Y
+336,B - July,,Y
+337,C - February,,Y
+338,D - August,,Y
+339,E - March,,Y
+340,F - September,,Y
+341,G - April,,Y
+342,H - October,,Y
+343,I - May,,Y
+344,J - November,,Y
+345,K - June,,Y
+346,L - December,,Y
+347,A_Female Gymnast,,Y
+348,B_Red Bars,,Y
+349,C_Blue Bars,,Y
+350,Card,,Y
+351,Balls,,Y
+352,(A) Card,,Y
+353,(B) Balls,,Y
+354,(C) Custom,,Y
+355,A_Silhouette,,Y
+356,B_Gymasticsgirls,,Y
+357,C_GymnasticsSolo,,Y
+358,D_Custom,,Y
+359,A_GoldGymnast,,Y
+360,B_Male,,Y
+361,C_Silhouette,,Y
+362,Baseball,,Y
+363,Softball,,Y
+364,A - Holo Gloves,,Y
+365,B - Boxing Gloves,,Y
+366,C - Boxing,,Y
+367,D - Custom,,Y
+368,Gold (Standard),,Y
+369,Boy Scouts,,Y
+370,Cub Scouts,,Y
+371,A - Dance Props,,Y
+372,B - Ballet Shoes,,Y
+373,C - Ballet Dancer,,Y
+374,D - Tap Dance,,Y
+375,E - Spotlight,,Y
+376,F - Custom,,Y
+377,Travel the Farthest,,Y
+378,Oldest Bike,,Y
+379,Oldest Car,,Y
+380,Acorn,,Y
+381,3 Stars,,Y
+382,2" Logo,,Y
+383,Lady Victory,,Y
+384,Other,,Y
+385,Black With Gold Letters,,Y
+386,Black With Silver Letters,,Y
+387,Silver With Black Letters,,Y
+388,Marbelized Dark Green,,Y
+389,Marbelized Dark Maroon,,Y
+390,Marbelized Dark Blue,,Y
+391,White Marble,,Y
+392,Grey Marble,,Y
+393,4th Place,,Y
+394,5th Place,,Y
+395,6th Place,,Y
+396,Best of Show,,Y
+397,Honorable Mention,,Y
+398,Special Award,,Y
+399,Judge,,Y
+400,Participant,,Y
+401,Archievment,,Y
+402,Special Teacher,,Y
+403,Grand Champion,,Y
+404,Reserve Champion,,Y
+405,Music Award,,Y
+406,Science Award,,Y
+407,Science Fair Winner,,Y
+408,Science Fair Participant,,Y
+409,Great Artist,,Y
+410,Field Day Winner,,Y
+411,Field Day Participant,,Y
+412,Dancing Star,,Y
+413,Good Sport,,Y
+414,Spirit Award,,Y
+415,Math Wiz,,Y
+416,Math Whiz,,Y
+417,Great Effort,,Y
+418,Most Improved,,Y
+419,Good Conduct,,Y
+420,Student of the Month,,Y
+421,Happy Birthday,,Y
+422,Character,,Y
+423,I Love to Read,,Y
+424,Spelling Champ,,Y
+425,I'm a Winner,,Y
+426,Student of the Week,,Y
+427,Special Achievement,,Y
+428,Star Student,,Y
+429,Honor Roll,,Y
+430,I'm Special,,Y
+431,Marigold,,Y
+432,Board Member,,Y
+433,Committee,,Y
+434,Chairman,,Y
+435,Chairperson,,Y
+436,Delegate,,Y
+437,Exhibitor,,Y
+438,Facilitator,,Y
+439,Finalist,,Y
+440,Guest,,Y
+441,Host,,Y
+442,Hostess,,Y
+443,Member,,Y
+444,President,,Y
+445,Speaker,,Y
+446,Staff,,Y
+447,Treasurer,,Y
+448,VIP,,Y
+449,Visitor,,Y
+450,7th Place,,Y
+451,8th Place,,Y
+452,9th Place,,Y
+453,10th Place,,Y
+454,Dark Brown,,Y
+455,Light Brown,,Y
+456,1.) Eyelet & String,,Y
+457,2.) Pinked- top/bottom,,Y
+458,Chocolate,,Y
+459,Garnet,,Y

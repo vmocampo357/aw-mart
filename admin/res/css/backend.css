@@ -1,0 +1,247 @@
+/**
+* Misc **/
+#ajax-loading{
+	display: block;
+	opacity: 0;
+	width:100%;
+	position: absolute;
+	top:15px;
+	text-align: center;
+}
+	#ajax-loading img{
+		height:21px;
+	}
+
+/**
+* Attribute Dropdown **/
+#children-attributes ul{
+	margin:0px;
+	padding:0px;
+}
+	#children-attributes ul li{
+		margin:0px;
+		padding:10px;
+		list-style-type: none;
+	}
+
+.typeahead,
+.tt-query,
+.tt-hint {
+  width: 410px;
+  height: 45px;
+  padding: 8px 12px;
+  font-size: 24px;
+  line-height: 30px;
+  border: 2px solid #ccc;
+  -webkit-border-radius: 8px;
+     -moz-border-radius: 8px;
+          border-radius: 8px;
+  outline: none;
+}
+
+.typeahead {
+  background-color: #fff;
+}
+
+.typeahead:focus {
+  border: 2px solid #0097cf;
+}
+
+.tt-query {
+  -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+     -moz-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+          box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+}
+
+.tt-hint {
+  color: #999
+}
+
+.tt-menu {
+  width: 422px;
+  margin: 12px 0;
+  padding: 8px 0;
+  background-color: #fff;
+  border: 1px solid #ccc;
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  -webkit-border-radius: 8px;
+     -moz-border-radius: 8px;
+          border-radius: 8px;
+  -webkit-box-shadow: 0 5px 10px rgba(0,0,0,.2);
+     -moz-box-shadow: 0 5px 10px rgba(0,0,0,.2);
+          box-shadow: 0 5px 10px rgba(0,0,0,.2);
+}
+
+.tt-suggestion {
+  padding: 3px 20px;
+  font-size: 18px;
+  line-height: 24px;
+}
+
+.tt-suggestion:hover {
+  cursor: pointer;
+  color: #fff;
+  background-color: #0097cf;
+}
+
+.tt-suggestion.tt-cursor {
+  color: #fff;
+  background-color: #0097cf;
+
+}
+
+.tt-suggestion p {
+  margin: 0;
+}
+
+.gist {
+  font-size: 14px;
+}
+
+/* example specific styles */
+/* ----------------------- */
+
+#custom-templates .empty-message {
+  padding: 5px 10px;
+ text-align: center;
+}
+
+#multiple-datasets .league-name {
+  margin: 0 20px 5px 20px;
+  padding: 3px 0;
+  border-bottom: 1px solid #ccc;
+}
+
+#scrollable-dropdown-menu .tt-menu {
+  max-height: 150px;
+  overflow-y: auto;
+}
+
+#rtl-support .tt-menu {
+  text-align: right;
+}
+
+
+/**
+* Image Uploader Stuff **/
+input[type=file]{
+	width: 100%;
+	max-width: 200px;
+	margin-top:10px;
+}
+#edit-product-image-placeholder{
+	min-height:300px;
+	width:100%;
+}
+	#edit-product-image-placeholder img{
+		width:100%;
+	}
+.standard-img-placeholder{
+	background-image: url(../images/img-placeholder.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+}
+
+/**
+* Price Table, Editing Product **/
+.quantities{}
+	.quantities ul{
+		padding:0px;
+	}
+		.quantities ul li{
+			list-style-type: none;		
+			margin-bottom:10px;
+			padding-bottom:10px;
+			border-bottom:1px solid #cecece;	
+		}
+			.quantities ul li .form-control{
+				width:45%;
+				display:inline-block;
+			}
+
+/**
+Taxonomy Stuff **/
+#taxonomy-child-dropdowns{
+	margin:10px 0px 0px 0px;
+	padding:0px;
+}
+	#taxonomy-child-dropdowns li{
+		list-style-type: none;
+		margin:10px 0px 0px 0px;
+		padding:0px;
+	}
+
+.edit-product-breadcrumb{
+	padding:7px 0px 7px 7px;
+	border-bottom:1px solid #cecece;
+	list-style-type: none;
+	transition:all 0.4s;
+	-moz-transition:all 0.4s;
+	-webkit-transition:all 0.4s;
+}
+	.edit-product-breadcrumb:hover{
+		background-color:rgba(0,0,0,0.1);
+	}
+	.edit-product-breadcrumb span{
+		display:inline-block;
+		margin-right:10px;
+		min-width: 150px;
+		font-style: italic;
+	}
+		.edit-product-breadcrumb span:after{
+			content:"";
+		}
+		.edit-product-breadcrumb span:last-child{
+			margin-right:0px;
+			font-weight:800;
+			font-style: normal;
+		}
+			.edit-product-breadcrumb span:last-child:after{
+				content:"";
+			}
+
+/**
+* Category Tree stuff **/
+.tree-view{
+
+}
+	.tree-sublevel{
+		margin-left:40px;
+		border-left:1px dotted #a7a7a7;		
+		overflow: hidden;		
+		transition:max-height 0.4s;
+		-moz-transition:max-height 0.4s;
+		-webkit-transition:max-height 0.4s;
+		max-height:none;
+	}
+		.tree-sublevel.level-2{
+			padding-bottom:30px;
+		}
+		.tree-sublevel h1{
+			font-size:18px;
+			margin:0;
+			padding:10px;
+			border-bottom:1px dotted #a7a7a7;
+			cursor: pointer;
+		}
+.tree-toolbar{
+	position:relative;
+}
+.toolset{
+	list-style-type: none;
+	position:absolute;
+	top:10px;
+	right:10px;
+}
+	.toolset li{
+		display:inline-block;
+		cursor: pointer;
+	}
+		.toolset li:hover{
+			opacity:0.5;
+		}
+		.tree-sublevel:hover{
+			background-color:rgba(0,0,0,0.05);			
+			box-shadow:0px 0px 0px 1px red;
+		}

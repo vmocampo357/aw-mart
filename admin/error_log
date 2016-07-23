@@ -1,0 +1,1 @@
+[19-Jun-2016 21:12:51 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/vmocampo357/public_html/2016/awards-mart/admin/includes/libs/Database.class.php on line 29
